@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recruits on 学涯留学</title>
+    <link>https://staging.studya.us/recruit/</link>
+    <description>Recent content in Recruits on 学涯留学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>版权所有 Studya.US</copyright>
+    <lastBuildDate>Sat, 10 Dec 2016 20:10:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://staging.studya.us/recruit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>招贤纳士</title>
+      <link>https://staging.studya.us/recruit/</link>
+      <pubDate>Sat, 10 Dec 2016 20:10:46 +0100</pubDate>
+      
+      <guid>https://staging.studya.us/recruit/</guid>
+      <description>招聘：文案／技术留学编辑 您喜欢写作吗？喜欢和别人分享所见所闻，并用您的经验回答仍在留学路上辛苦摸索的小伙伴们的疑问吗？
+欢迎加入我们的行列。
+我们是一群志同道合的华人，把美国真实有用的留学和实习信息介绍给在中国的朋友们，能让大家更好地利用美国的教育和实习资源，给自己一个机会，给别人一个机会。
+我们的服务不向学生收费，但我们会为您的劳作补偿。
+现在需要一些乐于在这方面展示自己能力的人才，为我们的公众平台撰写短文。
+希望通过这些短文可以让我们的朋友们以快速度、低学费、较容易的方式获得留学，提高工作技能，抓住机遇。
+如果您有兴趣，请加微信：studya_us，
+也可以访问我们的网页(网址：https://www.studya.us/recruit)，
+或者长按并识别以下二维码：
+如果你知道周围的朋友有兴趣，请帮助把以上信息转发给他们，谢谢！</description>
+    </item>
+    
+  </channel>
+</rss>

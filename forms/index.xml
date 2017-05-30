@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on 学涯留学</title>
+    <link>https://staging.studya.us/forms/</link>
+    <description>Recent content in Forms on 学涯留学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>版权所有 Studya.US</copyright>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://staging.studya.us/forms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>学涯（Studya）申请人基本信息</title>
+      <link>https://staging.studya.us/forms/personal/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.studya.us/forms/personal/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人申请信息</title>
+      <link>https://staging.studya.us/forms/application/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.studya.us/forms/application/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人地址信息</title>
+      <link>https://staging.studya.us/forms/address/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.studya.us/forms/address/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人材料信息</title>
+      <link>https://staging.studya.us/forms/files/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.studya.us/forms/files/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）留学评估信息登记表</title>
+      <link>https://staging.studya.us/forms/evaluation/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging.studya.us/forms/evaluation/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
